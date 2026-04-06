@@ -13,7 +13,7 @@ open shooter/index.html
 
 ## Git Workflow
 
-After every meaningful change: commit with a descriptive message and push to `origin main` (GitHub: `29jparker/ClaudeCodeTest`).
+After every meaningful change, commit with a descriptive message and push to `origin main` (GitHub: `29jparker/ClaudeCodeTest`). Do this continuously throughout work — not just at the end — so progress is never lost and any change can be reverted. Each commit should be atomic and its message should clearly describe what changed and why.
 
 ## Project Structure
 
